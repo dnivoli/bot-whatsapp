@@ -1,12 +1,12 @@
 {
   "type": "service_account",
   "project_id": "socialup-xdox",
-  "private_key_id": "1a078adbb69dd51028759eca7d51c8ba992847ce",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCi9eeTWw7gVGys\n0fJDZ6YBAAzixTA+TJvMyTsgjJUQ3m/KOA/o2e8JCgvAdl4BCLKlO3R6QjxRe4yn\nU3iLncyfaP2ey3KqY0/pMDGa/My51V224ZGejk4yMMQoujBLzyHraPb+Xh5bRBVG\nOWtfZA1l+8reFAp6z5227LfIfybNMfNHrTYB9LTBbmoktYOGrkyc35BN8jpvIWuI\nTRKozx6E4HDcU72YAEL7NAHkJ/IWuYP9x41xaFmPOYKe1fgTMk7S+SODCh4AU2qQ\nWy/yTpEg6R9OVc1S56n5k1kvLwubOHV6gA85Ta2IVYG7ZvzksQBIyu0MUJSaz8UF\nFQ2406tTAgMBAAECggEALskZuMEiVr52SvGls7tsugnJKUwCq0g0TMmTS6eA3ox2\nHOEWlDwJeBdlw1ZYa8STAYQ9zyH4Dk7B1YJN8AuYZUXv1qjDXW7Q0PqQq1Yb8thy\npOBC/foOMjO1BZpa5lDsBJmom+PqpDo6P2SZ0pO3kwmEt1ian6K+vXdd1lbHDY7t\nRCghMwKylHhIREkEXbutcVHMt65dcxFtgs7Dz0B/aejswetBWCSI9taEpGPWGW0o\nUd91WNlgDo7Ih9185U4Z9LPOh1rdFLkEQSnIAxD48iFRYWAqR7sgBAVonx2rDtcl\nrfJjXKH3dXxNvBRGGPPFpazxiIrJO5GyrbCg0iQVoQKBgQDi0ub2pOc5xhc+yKW0\n13tkjf/YwnBHmdoOorvpY/OQp0a2sjBEmY3Vtp49LrxcIOaPMx6+mQBhkfiEMLJ9\naWPoKD30oF2uvBG0nM5Fu0sOHMMUJ+qkvQ28JXaIyPJHV5t/mizsi4TxvjG2LibR\nPofV5RJ0MVkEmiyS60gRe6q5YQKBgQC37AtW+XWm6aQnk4dcCBr6cIh2YxOr99wN\nhiqLbYVtWxbKGx4Z/+XLuJvX+coqqwlH5T3J3kRnh9MJkIbp4wMLju5S//Ym2Ttr\nGngoKEreBGkLkbhbEjPr1xKmCZB13E0s/fpJDcFGvVHQUnrztKqW5YMNiG/LEvVp\nhop64MjdMwKBgDIPWeoVevLFRVwV7Hx9Ej6fGFg+kYk762RPhil8ZcUHJhQsP3rk\naOlB5KqcJfYvTLNOFPr7yZm/HZoPJVWIbQRP3VygCA0IdN/nu56oN2hl8KgCJ0c0\nclOT8RU/RDl6nFcNL90E7dJsp4wNo4OKyW/rnqcGPR9G54+FXeJ96LABAoGAV+HH\nDVkHmajcUjjRHe2VjoNFAWSYGrzFfgTUwWikr7stqYbJnFzFHdHpTYrCyh6NwbfN\nDW9SOjIRaemQPaPGabhzMl+x66AzHxs3vOB73Zg35VpMv99zxcYv1/yL9XU9vzjg\nZhXXe4is1iEDNP3n4VBrjYTa/irh7vllpA9SizcCgYAUXYgdMwMUCSpy7b0tvOYm\nmMjFCjLzxXaq2pa9YJoSknzayyL8o5Y7K+eMYSuSlf5TTDHkbRjD9454Z+hir6r2\noYKJhn0Ph2hkP+0EEX800rRdVMEXZ0sgg5lG4+K+/F1knqphA0DaphelG5DsozmN\nuMIeDm7Z9FGJ5c7mso3ysQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "pruebabotwhatsapp@socialup-xdox.iam.gserviceaccount.com",
-  "client_id": "110664162653960757069",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pruebabotwhatsapp%40socialup-xdox.iam.gserviceaccount.com"
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
